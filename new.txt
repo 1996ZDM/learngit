@@ -5,3 +5,4 @@ zdm second edit
 Git has a mutable index called stage.Git has a mutable index called stage.
 zdmm vi edit ,,,,,,,,,,,,
 zdm vi edit again,
+I am learning how to backward file
